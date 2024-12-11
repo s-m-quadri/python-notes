@@ -1,1 +1,5 @@
 Programming with python notes!
+
+Requirements:
+1. Install VS Code
+2. Install Python
