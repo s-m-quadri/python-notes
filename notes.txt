@@ -3,3 +3,4 @@ Programming with python notes!
 Requirements:
 1. Install VS Code
 2. Install Python
+3. Must have windows 8.0 or newer
